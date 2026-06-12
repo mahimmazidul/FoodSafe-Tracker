@@ -9,6 +9,38 @@ A comprehensive, production-ready food safety management system built for small-
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)
 ![React](https://img.shields.io/badge/React-19-blue)
 
+**🌐 [Live Demo](https://mahimmazidul.github.io/FoodSafe-Tracker/)** — runs entirely in your browser (offline demo mode, no backend needed). Log in with `admin@foodsafe.io` / `admin123`.
+
+---
+
+## 📸 Preview
+
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Dark Mode
+![Dashboard — Dark Mode](docs/screenshots/dashboard-dark.png)
+
+<details>
+<summary><b>More screenshots</b> — Temperature Logs, Alerts, Analytics, Reports, Login</summary>
+
+### Temperature Logs
+![Temperature Logs](docs/screenshots/temperature.png)
+
+### Alerts
+![Alerts](docs/screenshots/alerts.png)
+
+### Analytics
+![Analytics](docs/screenshots/analytics.png)
+
+### Reports
+![Reports](docs/screenshots/reports.png)
+
+### Login
+![Login](docs/screenshots/login.png)
+
+</details>
+
 ---
 
 ## ✨ Features
